@@ -30,8 +30,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/Meus-projetos.git
-cd Meus-projetos
+git clone https://github.com/santanadesouzanicolas32-sketch/gelamour-gestao.git
+cd gelamour-gestao
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
